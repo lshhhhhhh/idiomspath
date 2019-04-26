@@ -11,3 +11,13 @@ run:
 pip install -xpinyin
 
 python3 main.py 你的成语
+
+example:
+
+python3 main.py 千方百计
+
+['千方百计', '岌岌可危', '为所欲为']
+
+python3 main.py 赫赫有名
+
+['赫赫有名', '名副其实', '事与愿违', '为所欲为']
