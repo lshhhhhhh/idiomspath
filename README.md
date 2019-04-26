@@ -3,4 +3,5 @@ Using a depth-limited bfs to find the shortest 成语接龙 path from a certain 
 
 run:
 pip install -xpinyin
+
 python3 main.py 你的成语
